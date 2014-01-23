@@ -10,9 +10,6 @@ import java.util.*;
 
 public class Main
 {
-    static boolean buffered = false;
-    static String bufferedWord = "";
-    static int caseNum = 0;
 
     public static void main(String[] args) throws IOException
     {

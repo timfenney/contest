@@ -11,9 +11,6 @@ import java.util.*;
 
 public class Main
 {
-    static String ONE = "one";
-    static String TWO = "two";
-    static String THREE = "three";
 
     public static void main(String[] args) throws IOException
     {
